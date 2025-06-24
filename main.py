@@ -83,10 +83,10 @@ for i in range(rounds):
 print(f"\nFinal Score.... \nYou: {Your_score}\nComputer: {computer_score}\n")
 
 if  (Your_score > computer_score):
-    print("Congratulations! You won the game!\n")
+    print("Congratulations, You won the game!\n")
 
 elif (Your_score < computer_score):
-    print("The computer won the game! Better luck next time!\n")
+    print("The computer won the game, Better luck next time!\n")
 
 else:
-    print("It's a tie! Well played!\n")
+    print("It's a tie, Well played!\n")
